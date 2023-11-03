@@ -1,6 +1,10 @@
 # Weather-Forecasting
-Step 1. Press Shift + Right click on the Extacted folder and select "Open Powershell Window here."
-Step 2. Run the following Command:
-		:pip install -r requirements.txt
-Step 3. In the same power shell window run the following command:
-		:python main.py 
+This project is dedicated to developing a weather
+forecasting system using machine learning techniques in the Python
+programming environment. Weather forecasting plays an integral
+role in modern life, affecting everything from agriculture and
+transportation to disaster preparedness. The project went through
+several important phases. In the initial stage, historical
+meteorological data is collected from reliable sources, including
+various weather parameters, including geographic data. This data
+set forms the basis for building a robust predictive model.
